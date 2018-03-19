@@ -1,0 +1,10 @@
+E:\visualstudiocodedemo\ConsoleApplicationdemo\bin\Debug\netcoreapp2.0\ConsoleApplicationdemo.deps.json
+E:\visualstudiocodedemo\ConsoleApplicationdemo\bin\Debug\netcoreapp2.0\ConsoleApplicationdemo.runtimeconfig.json
+E:\visualstudiocodedemo\ConsoleApplicationdemo\bin\Debug\netcoreapp2.0\ConsoleApplicationdemo.runtimeconfig.dev.json
+E:\visualstudiocodedemo\ConsoleApplicationdemo\bin\Debug\netcoreapp2.0\ConsoleApplicationdemo.dll
+E:\visualstudiocodedemo\ConsoleApplicationdemo\bin\Debug\netcoreapp2.0\ConsoleApplicationdemo.pdb
+E:\visualstudiocodedemo\ConsoleApplicationdemo\obj\Debug\netcoreapp2.0\ConsoleApplicationdemo.csproj.CoreCompileInputs.cache
+E:\visualstudiocodedemo\ConsoleApplicationdemo\obj\Debug\netcoreapp2.0\ConsoleApplicationdemo.AssemblyInfoInputs.cache
+E:\visualstudiocodedemo\ConsoleApplicationdemo\obj\Debug\netcoreapp2.0\ConsoleApplicationdemo.AssemblyInfo.cs
+E:\visualstudiocodedemo\ConsoleApplicationdemo\obj\Debug\netcoreapp2.0\ConsoleApplicationdemo.dll
+E:\visualstudiocodedemo\ConsoleApplicationdemo\obj\Debug\netcoreapp2.0\ConsoleApplicationdemo.pdb
